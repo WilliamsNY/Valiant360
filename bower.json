@@ -1,0 +1,17 @@
+{
+  "name": "Valiant360",
+  "description": "An in-browser 360 degree panorama video player",
+  "authors": [
+    "Charlie Hoey"
+  ],
+  "license": "MIT",
+  "private": true,
+  "main": "./build/jquery.valiant360.min.js",
+  "ignore": [
+    "**/.*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:WilliamsNY/Valiant360.git"
+  }
+}
